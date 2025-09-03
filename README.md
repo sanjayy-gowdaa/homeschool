@@ -141,8 +141,7 @@ We welcome contributions from the homeschooling community! Please:
 ## Support
 
 For support and questions:
-- **Email**: info@homeschoolindia.com
-- **Website**: [Contact Page](/contact)
+- **Email**: sanjayygowdaa03@gmail.com
 
 ## License
 
